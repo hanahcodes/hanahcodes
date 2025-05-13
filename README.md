@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👩‍💻 Hana Ibrahim
 
-🚀 Data Scientist (Applied ML in Production) | AI Ethics & Alignment Enthusiast  
+🚀 Data Scientist | Robust ML in Production | AI Ethics & Alignment   
 📍 Based in Germany | 🌐 [Portfolio](https://hanahibrahim.framer.website)
 
 ---

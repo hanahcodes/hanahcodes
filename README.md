@@ -7,10 +7,10 @@
 
 ## 🔗 Let's Connect
 
-📧 hana.ibrahim.hilmy (at) gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/hana-h-ibrahim)  
-🧠 [Kaggle](https://www.kaggle.com/hanaibrahim)  
-🤗 [Hugging Face](https://huggingface.co/hhilmy)
+- hana.ibrahim.hilmy (at) gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/hana-h-ibrahim)  
+- [Kaggle](https://www.kaggle.com/hanaibrahim)  
+- [Hugging Face](https://huggingface.co/hhilmy)
 
 ---
 

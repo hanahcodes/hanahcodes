@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🔗 Let's Connect
-- 📧 hana.ibrahim.hilmy (dot) gmail.com  
+- 📧 hana.ibrahim.hilmy (at) gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hana-h-ibrahim)  
 - 💻 [GitHub](https://github.com/hana-h-ibrahim)  
 - 🧠 [Kaggle](https://www.kaggle.com/hanaibrahim)  

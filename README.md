@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 # 👩‍💻 Hana Ibrahim
 
 🚀 Data Scientist | Robust ML in Production | AI Ethics & Alignment   
-📍 Based in Germany | 🌐 [Portfolio](https://hanahibrahim.framer.website)
+📍 Based in Germany | 🌐 [Website](https://hanahibrahim.framer.website)
 
 ---
 
 ## 🔗 Let's Connect
 - 📧 hana.ibrahim.hilmy (at) gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hana-h-ibrahim)  
-- 💻 [GitHub](https://github.com/hana-h-ibrahim)  
 - 🧠 [Kaggle](https://www.kaggle.com/hanaibrahim)  
 - 🤗 [Hugging Face](https://huggingface.co/hhilmy)

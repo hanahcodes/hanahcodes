@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 🚀 Data Scientist (Applied ML in Production) | AI Ethics & Alignment Enthusiast  
 📍 Based in Germany | 🌐 [Portfolio](https://hanahibrahim.framer.website)
 
+---
+
+## 🔗 Let's Connect
+- 📧 hana.ibrahim.hilmy@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hana-h-ibrahim)  
+- 💻 [GitHub](https://github.com/hana-h-ibrahim)  
+- 🧠 [Kaggle](https://www.kaggle.com/hanaibrahim)  
+- 🤗 [Hugging Face](https://huggingface.co/hhilmy)

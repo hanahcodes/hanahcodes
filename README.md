@@ -1,4 +1,4 @@
-# 👩‍💻 Hana Ibrahim
+# 👩‍💻 Hana Hilmy Ibrahim
 
 **Data Scientist** | Robust ML in Production · AI Ethics · Alignment Curious  
 📍 Based in Germany · 🌐 [Portfolio Website](https://hanahibrahim.framer.website)

@@ -14,7 +14,8 @@
 
 ---
 
-> *"The most dangerous bugs are the ones in your assumptions."*
+"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."
+— Stephen Hawking
 
 ---
 

@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hanahcodes/hanahcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👩‍💻 Hana Ibrahim
+
+🚀 Data Scientist (Applied ML in Production) | AI Ethics & Alignment Enthusiast  
+📍 Based in Germany | 🌐 [Portfolio](https://hanahibrahim.framer.website)
+

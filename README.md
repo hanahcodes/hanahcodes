@@ -14,4 +14,8 @@
 
 ---
 
-> 💡 *"Building machine learning systems that actually do what you want them to — not just what you reward them for."*
+> *"The most dangerous bugs are the ones in your assumptions."*
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hanahcodes.hanahcodes)

@@ -1,10 +1,10 @@
 # Hana Ibrahim
 
 **Data Scientist** | Robust ML in Production · AI Ethics · Alignment Curious  
-🌐 [Portfolio Website](https://hanahibrahim.framer.website)
 
 ## 🔗 Let's Connect
 
+- 🌐 [Portfolio Website](https://hanahibrahim.framer.website)
 - hana.ibrahim.hilmy (at) gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/hana-h-ibrahim)  
 - [Kaggle](https://www.kaggle.com/hanaibrahim)  

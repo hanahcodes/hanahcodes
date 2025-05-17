@@ -1,4 +1,4 @@
-# Hana Hilmy Ibrahim
+# Hana Ibrahim
 
 **Data Scientist** | Robust ML in Production · AI Ethics · Alignment Curious  
 🌐 [Portfolio Website](https://hanahibrahim.framer.website)

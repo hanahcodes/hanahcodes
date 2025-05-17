@@ -1,6 +1,6 @@
 # Hana Ibrahim
 
-**Data Scientist** | Robust ML in Production · AI Ethics · Alignment Curious  
+**Data Scientist** | Robust ML · AI Ethics · Alignment Curious  
 
 ## 🔗 Let's Connect
 

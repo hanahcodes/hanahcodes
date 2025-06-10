@@ -1,6 +1,6 @@
 # Hana Ibrahim
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanahibrahim&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanahcodes&show_icons=true&theme=radical)
 
 > **Data Scientist** | Robust ML · AI Ethics · Alignment Curious
 

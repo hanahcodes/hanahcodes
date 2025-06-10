@@ -1,14 +1,6 @@
 # Hana Ibrahim
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanahcodes&show_icons=true&theme=radical)
-
-> **Data Scientist** | Robust ML · AI Ethics · Alignment Curious
-
----
-
-## 🚀 About Me
-
-No fluff: I build data-driven solutions that are practical, scalable, and ethically sound. Bridging cutting-edge machine learning with real-world impact—whether it’s tuning pricing algorithms or unpacking AI’s inner workings, I make sure my work holds up when it matters.
+I build data-driven solutions that are practical, scalable, and ethically sound. 
 
 - 🎓 **Background:** MS in Data Science  
 - 🛠️ **Tech Stack:** Python · Pandas · NumPy · Scikit-Learn · TensorFlow · PyTorch · Jupyter · Docker  

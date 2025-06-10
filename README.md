@@ -6,19 +6,10 @@ I build data-driven solutions that are practical, scalable, and ethically sound.
 - 🛠️ **Tech Stack:** Python · Pandas · NumPy · Scikit-Learn · TensorFlow · PyTorch · Jupyter · Docker  
 - 🔍 **Focus Areas:** Robustness · Interpretability · Ethical AI · Alignment  
 
----
-
 ## 📂 Projects
 
 - Data Science
 - AI Safety & Alignment
-
-### Personal
-
-- **Portfolio Website**  
-  A Framer-powered site showcasing my work, blog posts, and contact info. Responsive design, smooth interactions, and a light/dark mode toggle.
-
----
 
 ## 📫 Connect with Me
 

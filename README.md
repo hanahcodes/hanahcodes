@@ -6,12 +6,7 @@ I build data-driven solutions that are practical, scalable, and ethically sound.
 - 🛠️ **Tech Stack:** Python · Pandas · NumPy · Scikit-Learn · TensorFlow · PyTorch · Jupyter · Docker  
 - 🔍 **Focus Areas:** Robustness · Interpretability · Ethical AI · Alignment  
 
-## 📂 Projects
-
-- Data Science
-- AI Safety & Alignment
-
-## 📫 Connect with Me
+---
 
 - 🌐 [Portfolio Website](https://hanahibrahim.framer.website)  
 - ✉️ hana.ibrahim.hilmy@gmail.com  

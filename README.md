@@ -1,7 +1,7 @@
-# Hana Ibrahim
+> _“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”_  
+> — Stephen Hawking  
 
 I build data-driven solutions that are practical, scalable, and ethically sound. 
-
 - 🎓 **Background:** MS in Data Science  
 - 🛠️ **Tech Stack:** Python · Pandas · NumPy · Scikit-Learn · TensorFlow · PyTorch · Jupyter · Docker  
 - 🔍 **Focus Areas:** Robustness · Interpretability · Ethical AI · Alignment  
@@ -10,18 +10,8 @@ I build data-driven solutions that are practical, scalable, and ethically sound.
 
 ## 📂 Projects
 
-### Data Science
-
-- **Airbnb Dynamic Pricing Study**  
-  Built a regression model to predict optimal nightly rates using feature engineering on listing characteristics and market trends. Improved pricing accuracy by 18% over baseline.
-
-- **Cupcakes Optimization**  
-  Designed an A/B testing framework to optimize ingredient ratios and pricing. Increased customer satisfaction score by 12% while reducing costs by 8%.
-
-### AI Safety & Alignment
-
-- **Mechanistic Interpretability for AI Orchestration**  
-  Explored neuron-level behaviors in transformer architectures to map decision pathways. Developed visualization tools that highlight potential misalignment triggers.
+- Data Science
+- AI Safety & Alignment
 
 ### Personal
 
@@ -36,9 +26,3 @@ I build data-driven solutions that are practical, scalable, and ethically sound.
 - ✉️ hana.ibrahim.hilmy@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/hanahibrahim)  
 
-> _“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”_  
-> — Stephen Hawking  
-
----
-
-**Ready to collaborate or dive deeper?** Hit me up—no sugar-coating, just real talk and real results.

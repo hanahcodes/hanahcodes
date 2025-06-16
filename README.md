@@ -2,4 +2,4 @@
 > — Stephen Hawking  
 
 - 🛠️ **Tech Stack:** Python · Pandas · NumPy · Scikit-Learn · TensorFlow · PyTorch · Jupyter · Docker  
-- 🔍 **Focus Areas:** Robustness · Interpretability · Red teaming  
+- 🔍 **Focus Areas:** Robustness · Mechanistic Interpretability · Red Teaming  
